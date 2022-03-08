@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.bonitasoft.presales.theme</groupId>
     <artifactId>theme-presales-bni</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>Theme for presales BPM template</name>
-    <description>Describe your project here</description>
+    <name>Theme BNI</name>
+    <description>Presales Theme for BNI</description>
 
     <properties>
         <node.version>v14.17.3</node.version>
